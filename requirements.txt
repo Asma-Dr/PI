@@ -1,0 +1,11 @@
+streamlit
+pdfplumber
+sentence-transformers
+langchain
+faiss-cpu
+python-dotenv
+requests
+groq
+fpdf2
+fpdf
+nltk
